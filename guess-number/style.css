@@ -41,7 +41,7 @@ main {
   justify-content: space-around;
 
   @media (max-width: 37.5em) {
-    height: 45vh;
+    height: 55vh;
   }
 }
 
